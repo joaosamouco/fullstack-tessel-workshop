@@ -3,3 +3,9 @@
 > Project made @FullStackCon Tessel Workshop
 
 Create a poll on your tessel that will track votes via twitter posts. The winnner will be announced on Twitter and a new poll will start after 30 seconds.
+
+![The game in action](https://lh3.googleusercontent.com/Eh7L7iLsJ4lA-hUHLcpUMqpeuIQ0B7vmVtPDm30IUM9_yYu7Z0ft1sHh7_FfaAPHFpvGAN6lJxPq0XrK4Sco1CI7DrC5WveC0bcTl9KLozLwgXzWdEc9ciYESeuVjARVdpxYM0g_KF_SwdjmmdA77zCMd2XwOtkZAWDL2Qng_6mdXNTXSv7XyQbl0cX3veobnW1EClTsOqKr7va2qVnngYsO4Doa15ete7u2Sg23wdkKw4lcRDtsyltWKxQDVlYsq6XY_9F0_hdHOhAa5RthQkMR4aCaBzxFd2kiX4SHt6eDS2FIZlB3CkT57go3fqLXsOSObO9ZyPz6RY5sJHIEkG5mMaqBKu8-CKWQAnzWG4CuuI8Pq8SrKsz_bzjH7zwus41FX2ip5vxBPxP6U--HP8sDaHp4QhIzA-BSLU8zSNov0Hu0s1i7YDeoc_2krr9MZZ04cZhQTrLxyi865baD4LKEajxq-JvM5X6NsAmjdJ0t5wA0gl6qFtUL2yFm90W6Z0sdp1QIUXn4VzfRqTog0idhwbsnoYH7FNiRwp6EXhq7wk5qkwknMfSN-PKUO7w3vPg7wubEkTsjz8Tb55Nwq-G0_qnM7isR=w874-h492-no)
+
+[Sample voting tweet](https://twitter.com/nodebotanist/status/753637780383756288)
+
+[Sample winner announcement](https://twitter.com/TesselTweet/status/753638010609172480)
